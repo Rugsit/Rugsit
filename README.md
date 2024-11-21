@@ -1,4 +1,4 @@
-<h4 align="center">A Computer Science Student</h4>
+<h3 align="center">A Computer Science Student</h3>
 
 #### My skills
 
